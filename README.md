@@ -27,7 +27,7 @@ This section involves the 5G AKA protocol implementation with ECISE SUCI encrypt
 
 ### Detailed Instructions
 
-For detailed instructions on setting up and running the 5G AKA simulation, see the [5G AKA README]().
+For detailed instructions on setting up and running the 5G AKA simulation, see the [5G AKA README](https://github.com/anonymous-user-repository/AAKA_Plus/blob/main/5G_AKA/README.md).
 
 ## AAKA+
 
@@ -37,7 +37,7 @@ This section involves two different schemes:  AAKA+BB/PS schemes. Each scheme ha
 
 ### Detailed Instructions
 
-For detailed instructions on setting up and running the AAKA+ simulations, see the [AAKA+ README](https://github.com/XieMin-snnu/AAKA--BB-PS/blob/main/AAKA%2B/README.md).
+For detailed instructions on setting up and running the AAKA+ simulations, see the [AAKA+ README](https://github.com/anonymous-user-repository/AAKA_Plus/blob/main/AAKA_Plus/README.md).
 
 
 ## Acknowledgements
